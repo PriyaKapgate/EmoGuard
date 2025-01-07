@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "209360868268",
+    "project_id": "emogurd",
+    "storage_bucket": "emogurd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209360868268:android:1c64ca66c7873ec84c6009",
+        "android_client_info": {
+          "package_name": "com.example.emo_guard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI9BhE5SVkRdoVs_eMqt-2PanwGilXIwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
