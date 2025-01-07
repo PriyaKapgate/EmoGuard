@@ -2,6 +2,10 @@
 
 **EmoGuard** is an innovative mobile application designed to assess and support mental health through multiple advanced techniques, including the **PHQ-9 test**, **facial emotion recognition**, **audio emotion detection**, and AI-powered **chatbot support**. The app also provides **mental health exercises** and **emergency doctor support** to ensure users receive timely help.
 
+## Application Interface
+
+![App Interface](app-preview.png)
+
 ## 🚀 Features
 
 - **PHQ-9 Test**: A well-established, standardized questionnaire that assesses the severity of depression.
